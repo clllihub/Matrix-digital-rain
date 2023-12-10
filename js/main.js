@@ -1,5 +1,5 @@
 
-var Chars = ["*", "X", "+", "-", "1", "0", "1", "@", "六"];
+var Chars = ["*", "X", "+", "-", "1", "0", "1", "@", "八"];
 var Cells = [];
 var tileSize = 16;
 var dropspeed = 8;
